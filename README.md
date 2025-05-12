@@ -8,7 +8,7 @@
  
 **a.	Присвоить имена в соответствии с топологией:**  
  
-![image](https://github.com/MiokaHS/Demoeczamen/blob/main/Screenshot/Topologiya.png)  
+![image](https://github.com/arkadiy228-png/demo2026/tree/main/Screenshot/Topologiya.png)  
 
 ### **CLI**
  
